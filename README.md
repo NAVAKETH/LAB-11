@@ -27,6 +27,10 @@
 </p>
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
+#####ผลการทดสอบ
+
+![](https://github.com/NAVAKETH/LAB-11/blob/master/1.PNG?raw=true)
+
 ### การระบายสีด้วย TextureBrush
 * ให้วางคอนโทรล Panel จำนวน 2 ตัวลงบน Form โดยมีชื่อว่า panel1 และ panel2 ตามลำดับ
  * เพิ่ม paint event ให้กับ panel ทั้งสองตัว
@@ -64,3 +68,7 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+
+####ผลการทดสอบ(แค่รูปวงกลมอย่างเดียวครับ)
+
+![](https://github.com/NAVAKETH/LAB-11/blob/master/2.PNG?raw=true)
